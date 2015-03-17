@@ -1,0 +1,10 @@
+# Site settings
+title: SomeNameDevTeam
+email: SomeNameDevTeam@dev.ru
+description: Мы крутые ребята :)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.devteam.jsboom.ru" # the base hostname & protocol for your site
+
+# Build settings
+markdown: redcarpet
+timezone: Europe/Moscow

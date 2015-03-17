@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hello World"
+description: "Вводный выпуск"
+date:   2015-03-18 02:21
+tags: update
+author: KlonD90
+---
+Всем привет это наш блог о разработке.
+
+Прежде чем писать тут мы поделимся ссылками на наши предыдущие материалы.
+
+[http://jsboom.ru](http://jsboom.ru)

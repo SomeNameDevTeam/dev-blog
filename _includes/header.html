@@ -1,0 +1,15 @@
+<nav>
+
+  <div class="nav-wrapper">
+
+    <a class="brand-logo center" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      {% for page in site.pages %}
+        {% if page.title %}
+        <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+  </div>
+</nav>
