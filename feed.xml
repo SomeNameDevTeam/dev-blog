@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SomeNameDevTeam</title>
+    <description>Мы крутые ребята :)</description>
+    <link>http://somenamedevteam.github.io/dev-blog//</link>
+    <atom:link href="http://somenamedevteam.github.io/dev-blog//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Mar 2015 03:02:59 +0300</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2015 03:02:59 +0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;Всем привет это наш блог о разработке.&lt;/p&gt;
+
+&lt;p&gt;Прежде чем писать тут мы поделимся ссылками на наши предыдущие материалы.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jsboom.ru&quot;&gt;http://jsboom.ru&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Mar 2015 02:21:00 +0300</pubDate>
+        <link>http://somenamedevteam.github.io/dev-blog//2015/03/18/first.html</link>
+        <guid isPermaLink="true">http://somenamedevteam.github.io/dev-blog//2015/03/18/first.html</guid>
+        
+        <category>update</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
